@@ -1,0 +1,4 @@
+# 青龙面板的 Python 环境通常已自带 requests。
+# 若日志提示缺少依赖，请在「依赖管理 → Python3」安装 requests，或执行：
+#   pip3 install -r requirements.txt
+requests>=2.25.0
